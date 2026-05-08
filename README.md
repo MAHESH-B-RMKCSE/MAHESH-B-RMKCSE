@@ -5,8 +5,7 @@
 
 ## About Me
 
-Currently pursuing **B.E Computer Science and Engineering** at  
-R.M.K. Engineering College
+Currently pursuing **B.E Computer Science and Engineering** at R.M.K. Engineering College
 
 Passionate about:
 - Artificial Intelligence
