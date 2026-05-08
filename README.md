@@ -1,44 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mahesh Bala Dath Badri</h1>
-<h3 align="center">💻 3rd Year CSE Student | 🐍 Python Learner | 🚀 AI Enthusiast</h3>
+<h1 align="center"> I'm Mahesh Bala Dath Badri</h1>
+<h3 align="center"> 3rd Year CSE Student |  Python Learner |  AI Enthusiast</h3>
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-🎓 Currently pursuing **B.E Computer Science and Engineering** at  
-🏫 R.M.K. Engineering College
+ Currently pursuing **B.E Computer Science and Engineering** at  
+ R.M.K. Engineering College
 
-💡 Passionate about:
-- 🤖 Artificial Intelligence
-- 🐍 Python Programming
+ Passionate about:
+-  Artificial Intelligence
+-  Python Programming
+-  Technology Innovation
 
-- 🚀 Technology Innovation
-
-🌱 Currently Learning:
+ Currently Learning:
 - Python
 - Machine Learning
 - AI Tools
 
-🎯 Goal:
+ Goal:
 > To build a successful career in tech and become an AI Engineer.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 
 </p>
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### 🔹 Automatic Gate System
 📷 Number Plate Detection based Smart Gate Opening System
@@ -48,7 +45,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -60,7 +57,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 
